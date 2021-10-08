@@ -2,6 +2,11 @@
  
  Hello everyone, if I can help you with anything, you can send a mensagem to me on: gabrielvs_ms@hotmail.com
  
+ <div align="center">
+  <a href="https://github.com/MrDuranky">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrDuranky&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrDuranky&layout=compact&langs_count=7&theme=dark"/>
+</div>
   
    ![Snake animation](https://github.com/MrDuranky/MrDuranky/blob/output/github-contribution-grid-snake.svg)
    
