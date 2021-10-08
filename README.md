@@ -2,15 +2,15 @@
  
  Hello everyone, if I can help you with anything, you can send a mensagem to me on: gabrielvs_ms@hotmail.com
  
- 
+  
+   ![Snake animation](https://github.com/MrDuranky/MrDuranky/blob/output/github-contribution-grid-snake.svg)
+   
+   
  <div> 
   <a href="https://www.youtube.com/mrduranky" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/gabrielvelozoo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/mrduranky" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/eyQu2N6Mhc" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://br.linkedin.com/in/gabriel-velozo-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-   ![Snake animation](https://github.com/MrDuranky/MrDuranky/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
