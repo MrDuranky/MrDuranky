@@ -1,4 +1,4 @@
- ## Olá eu sou o Gabriel Velozo, na busca por conhecimento, eu sou Formado em Ciencia da Computação, atualmente trabalho como Programador/Desenvolvedor N1 e Atendimento de Suporte ao usuario.
+ ## Olá eu sou o Gabriel Velozo, estou constantemente na busca por conhecimento, sou Formado em Ciencia da Computação, atualmente trabalho como Programador/Desenvolvedor N1 e Atendimento de Suporte ao usuario.
  
  Sou Streamer para Descontrair e Relaxar, quando tenho tempo!
  
